@@ -3619,15 +3619,17 @@ textarea.form-control-lg {
   list-style: none;
 }
 
-.cssunits{
+.cssjig{
 border-radius:20px;
 opacity: 0.5 !important;
 }
-.cssunits:hover{
+.cssjig:hover{
 opacity: 1 !important;
 transition:0.6s;
 }
-
+.ejemplo{
+border-radius:20px;
+}
 .nav-link {
   display: block;
   padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
